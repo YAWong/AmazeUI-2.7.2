@@ -230,7 +230,7 @@ input, textarea{outline: none;}
 .uc-login .tit{ float:left; font-size:15px; color:#0c0d0e; line-height:49px;}
 .uc-login .tit i{ padding-left:1em;}
 .input-box{ position:relative; margin-left:63px; padding-right:20px; height:49px; font-size:15px; color:#b3b6be;}
-.input-box .btn-del{ position:absolute; top:50%; right:0; margin-top:-10px; width:20px; height:20px; background:url(../wapimages2/del.png) no-repeat center center; background-size:14px;}
+.input-box .btn-del{ position:absolute; top:50%; right:0; margin-top:-10px; width:20px; height:20px; background:url(../images/icons/del.png) no-repeat center center; background-size:14px;}
 .input-box.mr80{ margin-right:80px;}
 .input-box.mr64{ margin-right:64px;}
 .input-box.mr72{ margin-right:72px;}
