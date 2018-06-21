@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86cec9e3-7b98-4bae-9515-ad1988cf02a8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/icons/del.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ReadMe.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/yanzhengma.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js_modules/swiper-4.1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/新建.html" afterPath="$PROJECT_DIR$/新建.html" />
-    </list>
+    <list default="true" id="86cec9e3-7b98-4bae-9515-ad1988cf02a8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -145,7 +135,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="117" />
     <option name="y" value="265" />
     <option name="width" value="1844" />
@@ -291,10 +281,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69035000" />
+    <option name="totallyTimeSpent" value="69149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="265" width="1844" height="982" extended-state="0" />
+    <frame x="117" y="265" width="1844" height="982" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17986798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
